@@ -36,7 +36,7 @@ public class 단지번호붙이기 {
         }
         System.out.println(cand.size());
         Collections.sort(cand);
-        for(int i : cand){
+        for (int i : cand) {
             System.out.println(i);
         }
     }
